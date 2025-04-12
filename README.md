@@ -2,7 +2,7 @@
 
 Vibe Wine is a CLI application that recommends wines to pair with whatever food you're having.
 
-I created this app (after drinking a lot of wine) as my first experiment into the world of [Vibe Coding](git@github.com:IsaacIngram/vibe-wine.git). Do I think "vibe coding" is the future or a sustainable way to create software? Absolutely not, but this app is fun and borderline useful, so I thought I'd share it anyway.
+I created this app (after drinking a lot of wine) as my first experiment into the world of ["vibe coding"](https://en.wikipedia.org/wiki/Vibe_coding). Do I think "vibe coding" is the future or a sustainable way to create software? Absolutely not, but this app is fun and borderline useful, so I thought I'd share it anyway.
 
 # Setup and Usage
 
